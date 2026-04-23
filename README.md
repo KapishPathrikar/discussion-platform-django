@@ -44,6 +44,13 @@ A full-stack web application built using Django that allows users to create disc
 <img src="https://github.com/user-attachments/assets/8992988b-229a-411c-8213-aecd70279e9e" width="700"/>
 
 ---
+## 🧠 Learning Outcomes
+
+- Implemented full-stack application using Django MVT architecture  
+- Gained experience in authentication and session management  
+- Designed relational database models and CRUD operations  
+- Improved UI/UX through responsive design  
+
 
 ##  Installation
 
@@ -59,9 +66,4 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 
-## 🧠 Learning Outcomes
 
-- Implemented full-stack application using Django MVT architecture  
-- Gained experience in authentication and session management  
-- Designed relational database models and CRUD operations  
-- Improved UI/UX through responsive design  
