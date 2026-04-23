@@ -28,7 +28,7 @@ A full-stack web application built using Django that allows users to create disc
 ## 👨‍💻 My Contribution
 
 - Implemented user authentication system using Django  
-- Built backend logic using Django models, views, and templates  
+- Built backend logic using Django MVT architecture 
 - Developed CRUD functionality for rooms and messaging  
 - Designed responsive UI components using custom CSS  
 - Contributed to search functionality and user experience improvements  
@@ -37,17 +37,19 @@ A full-stack web application built using Django that allows users to create disc
 
 ## 📸 Screenshots
 
-<!-- Add your images here -->
-![Home]<img width="755" height="471" alt="image" src="https://github.com/user-attachments/assets/384f36dc-b766-44a1-8dbc-eeff7d015369" />
-![Room]<img width="742" height="378" alt="image" src="https://github.com/user-attachments/assets/8992988b-229a-411c-8213-aecd70279e9e" />
+### Home Page
+<img src="https://github.com/user-attachments/assets/384f36dc-b766-44a1-8dbc-eeff7d015369" width="700"/>
+
+### Discussion Room
+<img src="https://github.com/user-attachments/assets/8992988b-229a-411c-8213-aecd70279e9e" width="700"/>
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
-git clone https://github.com/KapishPathrikar/djangominiproject.git
-cd djangominiproject
+git clone https://github.com/KapishPathrikar/discussion-platform-django.git
+cd discussion-platform-django
 
 python -m venv venv
 venv\Scripts\activate   # Windows
@@ -56,3 +58,10 @@ pip install -r requirements.txt
 
 python manage.py migrate
 python manage.py runserver
+
+## 🧠 Learning Outcomes
+
+- Implemented full-stack application using Django MVT architecture  
+- Gained experience in authentication and session management  
+- Designed relational database models and CRUD operations  
+- Improved UI/UX through responsive design  
